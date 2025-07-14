@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "846262703054",
+    "project_id": "dragontecvers0",
+    "storage_bucket": "dragontecvers0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846262703054:android:ea27dfaa22eef1e3a8d19f",
+        "android_client_info": {
+          "package_name": "com.example.dragontecvers0"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMg2iu63f5YF_1kO-kGybFm3-aLtfvx00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
